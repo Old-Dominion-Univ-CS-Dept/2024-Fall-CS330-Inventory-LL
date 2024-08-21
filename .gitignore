@@ -1,0 +1,18 @@
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+**.zip
+**.swp
+
+# Do not include makefile
+makefile
+
+# Do not include reference txt files
+*.txt
+!src/main/resources/*.txt
