@@ -5,4 +5,4 @@ This is the starting code for Assignment 1.
 
   2. If you would prefer not to work with Git and GitHub... download the
      starting code as a
-     [zip file](./archive/refs/heads/main.zip).
+     [zip file](https://github.com/Old-Dominion-Univ-CS-Dept/2024-Fall-CS330-Inventory-LL/archive/refs/heads/main.zip).
